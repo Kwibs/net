@@ -53,6 +53,7 @@ body {
   margin: 10px 0;
   font-size: 2.5rem;
   color: #333;
+  margin-right: auto;
 }
 
 .subtitle {
@@ -60,6 +61,7 @@ body {
   margin: 5px 0;
   font-size: 1.2rem;
   color: #555;
+  margin-right: auto;
 }
 
 
